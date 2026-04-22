@@ -1,4 +1,5 @@
-👨‍💻 **Apresentação**\n
+👨‍💻 **Apresentação**
+
 🧑‍🎓 **Identidade**
 
 Olá! Meu nome é Matheus, sou estudante de programação apaixonado por tecnologia e desenvolvimento de software. Atualmente estou focado em aprender e evoluir minhas habilidades na área, sempre buscando novos desafios e oportunidades para crescer como desenvolvedor.
