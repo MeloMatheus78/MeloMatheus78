@@ -1,16 +1,20 @@
-## Hi there 👋
+👨‍💻 ##Apresentação
+🧑‍🎓 ##Identidade
 
-<!--
-**MeloMatheus78/MeloMatheus78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é Matheus, sou estudante de programação apaixonado por tecnologia e desenvolvimento de software. Atualmente estou focado em aprender e evoluir minhas habilidades na área, sempre buscando novos desafios e oportunidades para crescer como desenvolvedor.
 
-Here are some ideas to get you started:
+🚀 ##Habilidades
+💻 Linguagens: C
+🛠️ Ferramentas: Git, GitHub, VS Code
+📚 Conceitos: Lógica de programação, estruturas de dados, algoritmos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🎯 ##Objetivos Profissionais
+
+Meu principal objetivo é me tornar um desenvolvedor completo, com foco em criar soluções eficientes e inovadoras. 
+
+Busco:
+📈 Evoluir constantemente minhas habilidades técnicas
+💼 Conseguir uma oportunidade profissional na área de tecnologia
+🤝 Participar de projetos reais e colaborar com outros desenvolvedores
+🌍 Contribuir para projetos open source
