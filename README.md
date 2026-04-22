@@ -1,9 +1,9 @@
-👨‍💻 ##Apresentação
-🧑‍🎓 ##Identidade
+👨‍💻 **Apresentação**
+🧑‍🎓 **Identidade**
 
 Olá! Meu nome é Matheus, sou estudante de programação apaixonado por tecnologia e desenvolvimento de software. Atualmente estou focado em aprender e evoluir minhas habilidades na área, sempre buscando novos desafios e oportunidades para crescer como desenvolvedor.
 
-🚀 ##Habilidades
+🚀 **Habilidades**
 💻 Linguagens: C
 🛠️ Ferramentas: Git, GitHub, VS Code
 📚 Conceitos: Lógica de programação, estruturas de dados, algoritmos
